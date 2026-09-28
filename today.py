@@ -128,9 +128,10 @@ def esc(t):
 
 
 def svg(theme, lines):
-    art_fs, art_lh, fs, ch, pad = 8.5, 10.5, 16, 0.61, 20
+    fs, lh, ch, pad = 16, 19, 0.61, 20
+    art_lh = lh * len(lines) / len(ART_LINES)  # stretch the art to the info panel height
+    art_fs = art_lh / 1.235
     art_h = len(ART_LINES) * art_lh
-    lh = max(19, art_h / len(lines))
     info_x = pad + max(map(len, ART_LINES)) * art_fs * ch + 22
     width = round(info_x + W * fs * ch + pad)
     height = round(2 * pad + max(art_h, lh * len(lines)))
