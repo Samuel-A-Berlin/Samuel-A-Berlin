@@ -10,8 +10,8 @@ import urllib.request
 
 USER = 'Samuel-A-Berlin'
 BIRTHDAY = datetime.date(2006, 4, 24)
-CROP = 4  # columns cut from each side of the art
-W = 84    # info line width in characters
+CROP = 8  # columns cut from each side of the art
+W = 73    # info line width in characters
 
 ART = r"""
                                     ##%%%%@@@@
@@ -57,7 +57,7 @@ ART = r"""
 """
 _art = textwrap.dedent(ART).strip('\n').splitlines()
 _wide = max(map(len, _art))
-ART_LINES = [line[CROP:_wide - CROP].rstrip() for line in _art]
+ART_LINES = [line[CROP:_wide - CROP].rstrip() for line in _art[:-2]]
 
 THEMES = {
     'dark_mode.svg': dict(bg='#161b22', fg='#c9d1d9', key='#ffa657', value='#a5d6ff', cc='#616e7f', add='#3fb950', dele='#f85149'),
@@ -132,7 +132,7 @@ def kv(key, val, width=W):
     return [('. ', 'cc'), (key, 'key'), (':', 'fg'), (' ' + '.' * dots + ' ', 'cc')] + segs
 
 
-def pair(k1, v1, k2, v2, left=46):
+def pair(k1, v1, k2, v2, left=41):
     return kv(k1, v1, left) + [(' | ', 'fg')] + kv(k2, v2, W - left - 1)[1:]
 
 
@@ -152,9 +152,9 @@ def info(s, today):
         kv('Harnesses.Agentic', 'Claude Code, Codex, Pi Coding Agent, Prime Agent'),
         kv('Harnesses.IRL', 'Uggs, Baggy Pants, Henleys'),
         [('.', 'cc')],
-        kv('Interests.Professional', 'RL Environments, Restructuring, Credit, Distressed Debt'),
+        kv('Interests.Professional', 'RL, Restructuring, Credit'),
         kv('Interests.Sports', 'Cleveland Cavaliers, Ohio State Football'),
-        kv('Interests.Personal', 'NBA 2K, Cooking, Baking, Clash Royale, Star Wars'),
+        kv('Interests.Personal', 'NBA 2K, Baking, Climbing, Clash Royale, Star Wars'),
         [],
         title('- Contact'),
         kv('Email.Work', 'samuel@afterquery.com'),
@@ -174,10 +174,10 @@ def esc(t):
 
 
 def svg(theme, lines):
-    art_fs, art_lh, fs, ch, pad = 9, 11, 14, 0.61, 22
+    art_fs, art_lh, fs, ch, pad = 8.5, 10.5, 16, 0.61, 20
     art_h = len(ART_LINES) * art_lh
-    lh = max(18, art_h / len(lines))
-    info_x = pad + max(map(len, ART_LINES)) * art_fs * ch + 26
+    lh = max(19, art_h / len(lines))
+    info_x = pad + max(map(len, ART_LINES)) * art_fs * ch + 22
     width = round(info_x + W * fs * ch + pad)
     height = round(2 * pad + max(art_h, lh * len(lines)))
     css = ' '.join(f'.{k}{{fill:{v}}}' for k, v in theme.items() if k != 'bg')
