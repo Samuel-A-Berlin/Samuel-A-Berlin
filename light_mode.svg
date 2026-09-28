@@ -1,67 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1075px" height="477px" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" width="1023px" height="477px" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" xml:space="preserve">
 <style>.fg{fill:#24292f} .key{fill:#953800} .value{fill:#0a3069} .cc{fill:#c2cfde} .add{fill:#1a7f37} .dele{fill:#cf222e} text,tspan{white-space:pre}</style>
-<rect width="1075px" height="477px" fill="#f6f8fa" rx="15"/>
+<rect width="1023px" height="477px" fill="#f6f8fa" rx="15"/>
 <text class="fg" font-size="8.5px">
-<tspan x="20" y="28.5">                        ##%%%%@@@@</tspan>
-<tspan x="20" y="39.0">                     #%%%@%%@@@@@@@@</tspan>
-<tspan x="20" y="49.5">                  %%%%@@@@@@@@@%%@@@@@@@%</tspan>
-<tspan x="20" y="60.0">                 %%%@@@@@@@@@@@@%%%@@@@@@@@</tspan>
-<tspan x="20" y="70.5">                @@@%%@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="20" y="81.0">               @%%%%%%@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="20" y="91.5">              %%%%#%%%%@@@@@@@@@%%%%%#%@@@@%</tspan>
-<tspan x="20" y="102.0">              %%%%%%%%%%%@@@@@%#####*+#%@@@@@</tspan>
-<tspan x="20" y="112.5">              %%%%%%%###%%%%%##*++**+++#%@@%</tspan>
-<tspan x="20" y="123.0">              @%%%%#########*=--=***++**%%@%</tspan>
-<tspan x="20" y="133.5">               @%%%#*+=+**+++--+++***++*#*#</tspan>
-<tspan x="20" y="144.0">               %%****++*++--=+=+=---==++*==</tspan>
-<tspan x="20" y="154.5">                %*=+*+=--===+*=*+=----=++==</tspan>
-<tspan x="20" y="165.0">                 #+=**+=====++==*=--==++-==</tspan>
-<tspan x="20" y="175.5">                  *++*++==-=+++++=--==+*=</tspan>
-<tspan x="20" y="186.0">                 @%%%#+++==+**=+**+==+++</tspan>
-<tspan x="20" y="196.5">                   ##%+++=+**+=+*#+===+*</tspan>
-<tspan x="20" y="207.0">                      **++==++++=====++</tspan>
-<tspan x="20" y="217.5">                      ***++=-======+**</tspan>
-<tspan x="20" y="228.0">                     #*++++**++++*#*+*</tspan>
-<tspan x="20" y="238.5">                 =+*#**+=--======+==+*</tspan>
-<tspan x="20" y="249.0">             ::-----**++=-------====+++-=</tspan>
-<tspan x="20" y="259.5">      =---:::::::::..-===--::------=+++-::--:</tspan>
-<tspan x="20" y="270.0"> +=====---:::::..::.....:--:::::::-===:.:.::::.::</tspan>
-<tspan x="20" y="280.5">=--::::::::::......................   ...:::::::::::::</tspan>
-<tspan x="20" y="291.0">::...:......::.............        .. ...............::-</tspan>
-<tspan x="20" y="301.5">:.:..:.........::..............       .. ...............:-</tspan>
-<tspan x="20" y="312.0">.................:..............   ..    ............  :.:</tspan>
-<tspan x="20" y="322.5">..... ..........:-++==-.......           ............  ...</tspan>
-<tspan x="20" y="333.0">........ ....:*+=+**+==++. .:=:     :==-............. ....</tspan>
-<tspan x="20" y="343.5">.:..........====-=======-   .:=-:  .**+=----......... ....</tspan>
-<tspan x="20" y="354.0">..::.......-====++**+--+=   -++-. .=%%%%#*.- ........ . ..</tspan>
-<tspan x="20" y="364.5">.....:.....+=========+===-:  =.=::*:-+%%#*.   .....:. ....</tspan>
-<tspan x="20" y="375.0">..........=*==-===+*==+:     =.=.-=:..:..    ......:.. ...</tspan>
-<tspan x="20" y="385.5">.....:...=*+==+*+++=+*+=.    -:+*=::*- .-+=   ............</tspan>
-<tspan x="20" y="396.0">.....:.:+**+=+*#**%##*:.     .:+= +#*###*=+. ....:.:... ..</tspan>
-<tspan x="20" y="406.5">.....-+*+++*+**#%%%%#-=-.     .=*=-=+#%%%#*  ....:.:......</tspan>
-<tspan x="20" y="417.0">...:*#*+==++**#%%%%%%*=..    . =%***###%%#+  ....:.:......</tspan>
+<tspan x="20" y="28.5">                   ##%%%%@@@@</tspan>
+<tspan x="20" y="39.0">                #%%%@%%@@@@@@@@</tspan>
+<tspan x="20" y="49.5">             %%%%@@@@@@@@@%%@@@@@@@%</tspan>
+<tspan x="20" y="60.0">            %%%@@@@@@@@@@@@%%%@@@@@@@@</tspan>
+<tspan x="20" y="70.5">           @@@%%@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="20" y="81.0">          @%%%%%%@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="20" y="91.5">         %%%%#%%%%@@@@@@@@@%%%%%#%@@@@%</tspan>
+<tspan x="20" y="102.0">         %%%%%%%%%%%@@@@@%#####*+#%@@@@@</tspan>
+<tspan x="20" y="112.5">         %%%%%%%###%%%%%##*++**+++#%@@%</tspan>
+<tspan x="20" y="123.0">         @%%%%#########*=--=***++**%%@%</tspan>
+<tspan x="20" y="133.5">          @%%%#*+=+**+++--+++***++*#*#</tspan>
+<tspan x="20" y="144.0">          %%****++*++--=+=+=---==++*==</tspan>
+<tspan x="20" y="154.5">           %*=+*+=--===+*=*+=----=++==</tspan>
+<tspan x="20" y="165.0">            #+=**+=====++==*=--==++-==</tspan>
+<tspan x="20" y="175.5">             *++*++==-=+++++=--==+*=</tspan>
+<tspan x="20" y="186.0">            @%%%#+++==+**=+**+==+++</tspan>
+<tspan x="20" y="196.5">              ##%+++=+**+=+*#+===+*</tspan>
+<tspan x="20" y="207.0">                 **++==++++=====++</tspan>
+<tspan x="20" y="217.5">                 ***++=-======+**</tspan>
+<tspan x="20" y="228.0">                #*++++**++++*#*+*</tspan>
+<tspan x="20" y="238.5">            =+*#**+=--======+==+*</tspan>
+<tspan x="20" y="249.0">        ::-----**++=-------====+++-=</tspan>
+<tspan x="20" y="259.5"> =---:::::::::..-===--::------=+++-::--:</tspan>
+<tspan x="20" y="270.0">==---:::::..::.....:--:::::::-===:.:.::::.::</tspan>
+<tspan x="20" y="280.5">::::::::......................   ...::::::::::::</tspan>
+<tspan x="20" y="291.0">:......::.............        .. ...............</tspan>
+<tspan x="20" y="301.5">:.........::..............       .. ............</tspan>
+<tspan x="20" y="312.0">............:..............   ..    ............</tspan>
+<tspan x="20" y="322.5"> ..........:-++==-.......           ............</tspan>
+<tspan x="20" y="333.0">... ....:*+=+**+==++. .:=:     :==-.............</tspan>
+<tspan x="20" y="343.5">.......====-=======-   .:=-:  .**+=----.........</tspan>
+<tspan x="20" y="354.0">......-====++**+--+=   -++-. .=%%%%#*.- ........</tspan>
+<tspan x="20" y="364.5">:.....+=========+===-:  =.=::*:-+%%#*.   .....:.</tspan>
+<tspan x="20" y="375.0">.....=*==-===+*==+:     =.=.-=:..:..    ......:.</tspan>
+<tspan x="20" y="385.5">:...=*+==+*+++=+*+=.    -:+*=::*- .-+=   .......</tspan>
+<tspan x="20" y="396.0">:.:+**+=+*#**%##*:.     .:+= +#*###*=+. ....:.:.</tspan>
+<tspan x="20" y="406.5">-+*+++*+**#%%%%#-=-.     .=*=-=+#%%%#*  ....:.:.</tspan>
+<tspan x="20" y="417.0">#*+==++**#%%%%%%*=..    . =%***###%%#+  ....:.:.</tspan>
 </text>
-<text x="343" y="36.0" font-size="16px"><tspan class="fg">samuel@berlin -——————————————————————————————————————————————————————————</tspan></text>
-<text x="343" y="55.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="fg">:</tspan><tspan class="cc"> .................................................. </tspan><tspan class="value">macOS Tahoe 26.5</tspan></text>
-<text x="343" y="74.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="fg">:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">20 years, 5 months, 4 days</tspan></text>
-<text x="343" y="93.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="fg">:</tspan><tspan class="cc"> ...................................................... </tspan><tspan class="value">AfterQuery</tspan></text>
-<text x="343" y="112.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="fg">:</tspan><tspan class="cc"> ............................. </tspan><tspan class="value">SPA (Strategic Project Associate)</tspan></text>
-<text x="343" y="131.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Directory</tspan><tspan class="fg">:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">San Francisco, California</tspan></text>
-<text x="343" y="150.0" font-size="16px"><tspan class="cc">.</tspan></text>
-<text x="343" y="169.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Harnesses.Agentic</tspan><tspan class="fg">:</tspan><tspan class="cc"> ... </tspan><tspan class="value">Claude Code, Codex, Pi Coding Agent, Prime Agent</tspan></text>
-<text x="343" y="188.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Harnesses.IRL</tspan><tspan class="fg">:</tspan><tspan class="cc"> ............................. </tspan><tspan class="value">Uggs, Baggy Pants, Henleys</tspan></text>
-<text x="343" y="207.0" font-size="16px"><tspan class="cc">.</tspan></text>
-<text x="343" y="226.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Interests.Professional</tspan><tspan class="fg">:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">RL, Restructuring, Credit</tspan></text>
-<text x="343" y="245.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Interests.Sports</tspan><tspan class="fg">:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Cleveland Cavaliers, Ohio State Football</tspan></text>
-<text x="343" y="264.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Interests.Personal</tspan><tspan class="fg">:</tspan><tspan class="cc"> . </tspan><tspan class="value">NBA 2K, Baking, Climbing, Clash Royale, Star Wars</tspan></text>
-<text x="343" y="283.0" font-size="16px"></text>
-<text x="343" y="302.0" font-size="16px"><tspan class="fg">- Contact -——————————————————————————————————————————————————————————————</tspan></text>
-<text x="343" y="321.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Email.Work</tspan><tspan class="fg">:</tspan><tspan class="cc"> ..................................... </tspan><tspan class="value">samuel@afterquery.com</tspan></text>
-<text x="343" y="340.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="fg">:</tspan><tspan class="cc"> ............................................... </tspan><tspan class="value">samuel-berlin</tspan></text>
-<text x="343" y="359.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Slack</tspan><tspan class="fg">:</tspan><tspan class="cc"> .................................................. </tspan><tspan class="value">Samuel Berlin</tspan></text>
-<text x="343" y="378.0" font-size="16px"></text>
-<text x="343" y="397.0" font-size="16px"><tspan class="fg">- GitHub Stats -—————————————————————————————————————————————————————————</tspan></text>
-<text x="343" y="416.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="fg">:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">8 {Contributed: 10}</tspan><tspan class="fg"> | </tspan><tspan class="key">Stars</tspan><tspan class="fg">:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">0</tspan></text>
-<text x="343" y="435.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="fg">:</tspan><tspan class="cc"> .......................... </tspan><tspan class="value">187</tspan><tspan class="fg"> | </tspan><tspan class="key">Followers</tspan><tspan class="fg">:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">0</tspan></text>
-<text x="343" y="454.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="fg">:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">1,368,948</tspan><tspan class="fg"> ( </tspan><tspan class="add">1,393,024++</tspan><tspan class="fg">, </tspan><tspan class="dele">24,076--</tspan><tspan class="fg"> )</tspan></text>
+<text x="291" y="36.0" font-size="16px"><tspan class="fg">samuel@berlin -——————————————————————————————————————————————————————————</tspan></text>
+<text x="291" y="55.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="fg">:</tspan><tspan class="cc"> .................................................. </tspan><tspan class="value">macOS Tahoe 26.5</tspan></text>
+<text x="291" y="74.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="fg">:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">20 years, 5 months, 4 days</tspan></text>
+<text x="291" y="93.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="fg">:</tspan><tspan class="cc"> ...................................................... </tspan><tspan class="value">AfterQuery</tspan></text>
+<text x="291" y="112.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="fg">:</tspan><tspan class="cc"> ............................. </tspan><tspan class="value">SPA (Strategic Project Associate)</tspan></text>
+<text x="291" y="131.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Directory</tspan><tspan class="fg">:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">San Francisco, California</tspan></text>
+<text x="291" y="150.0" font-size="16px"><tspan class="cc">.</tspan></text>
+<text x="291" y="169.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Harnesses.Agentic</tspan><tspan class="fg">:</tspan><tspan class="cc"> ... </tspan><tspan class="value">Claude Code, Codex, Pi Coding Agent, Prime Agent</tspan></text>
+<text x="291" y="188.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Harnesses.IRL</tspan><tspan class="fg">:</tspan><tspan class="cc"> ............................. </tspan><tspan class="value">Uggs, Baggy Pants, Henleys</tspan></text>
+<text x="291" y="207.0" font-size="16px"><tspan class="cc">.</tspan></text>
+<text x="291" y="226.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Interests.Professional</tspan><tspan class="fg">:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">RL, Restructuring, Credit</tspan></text>
+<text x="291" y="245.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Interests.Sports</tspan><tspan class="fg">:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Cleveland Cavaliers, Ohio State Football</tspan></text>
+<text x="291" y="264.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Interests.Personal</tspan><tspan class="fg">:</tspan><tspan class="cc"> . </tspan><tspan class="value">NBA 2K, Baking, Climbing, Clash Royale, Star Wars</tspan></text>
+<text x="291" y="283.0" font-size="16px"></text>
+<text x="291" y="302.0" font-size="16px"><tspan class="fg">- Contact -——————————————————————————————————————————————————————————————</tspan></text>
+<text x="291" y="321.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Email.Work</tspan><tspan class="fg">:</tspan><tspan class="cc"> ..................................... </tspan><tspan class="value">samuel@afterquery.com</tspan></text>
+<text x="291" y="340.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="fg">:</tspan><tspan class="cc"> ............................................... </tspan><tspan class="value">samuel-berlin</tspan></text>
+<text x="291" y="359.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Slack</tspan><tspan class="fg">:</tspan><tspan class="cc"> .................................................. </tspan><tspan class="value">Samuel Berlin</tspan></text>
+<text x="291" y="378.0" font-size="16px"></text>
+<text x="291" y="397.0" font-size="16px"><tspan class="fg">- GitHub Stats -—————————————————————————————————————————————————————————</tspan></text>
+<text x="291" y="416.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="fg">:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">8 {Contributed: 10}</tspan><tspan class="fg"> | </tspan><tspan class="key">Stars</tspan><tspan class="fg">:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">0</tspan></text>
+<text x="291" y="435.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="fg">:</tspan><tspan class="cc"> .......................... </tspan><tspan class="value">188</tspan><tspan class="fg"> | </tspan><tspan class="key">Followers</tspan><tspan class="fg">:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">0</tspan></text>
+<text x="291" y="454.0" font-size="16px"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="fg">:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">1,409,758</tspan><tspan class="fg"> ( </tspan><tspan class="add">1,433,858++</tspan><tspan class="fg">, </tspan><tspan class="dele">24,100--</tspan><tspan class="fg"> )</tspan></text>
 </svg>

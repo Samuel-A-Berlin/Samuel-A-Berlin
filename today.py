@@ -10,7 +10,7 @@ import urllib.request
 
 USER = 'Samuel-A-Berlin'
 BIRTHDAY = datetime.date(2006, 4, 24)
-CROP = 10 # columns cut from each side of the art
+CROP = 15 # columns cut from each side of the art
 W = 73    # info line width in characters
 
 ART = r"""
