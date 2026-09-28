@@ -10,7 +10,7 @@ import urllib.request
 
 USER = 'Samuel-A-Berlin'
 BIRTHDAY = datetime.date(2006, 4, 24)
-CROP = 8  # columns cut from each side of the art
+CROP = 10 # columns cut from each side of the art
 W = 73    # info line width in characters
 
 ART = r"""
@@ -143,7 +143,7 @@ def title(text):
 def info(s, today):
     return [
         title('samuel@berlin'),
-        kv('OS', 'this machine only'),
+        kv('OS', 'macOS Tahoe 26.5'),
         kv('Uptime', age(today)),
         kv('Host', 'AfterQuery'),
         kv('Kernel', 'SPA (Strategic Project Associate)'),
